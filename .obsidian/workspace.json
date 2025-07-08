@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6c85a9b4be5c4b77",
+        "id": "e2c5b75a727b51d7",
         "type": "tabs",
         "children": [
           {
-            "id": "16f2273bdd87dd9b",
+            "id": "7ff837febb4384d8",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Welcome.md",
-                "bFile": "Welcome.md",
-                "aRef": ""
+                "file": "Building Block.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Welcome"
+              "icon": "lucide-file",
+              "title": "Building Block"
             }
           }
         ]
@@ -89,63 +89,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bffd406d48ca2df1",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
-            }
-          },
-          {
-            "id": "077ed8596448324d",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
-            "id": "9c666451bb69c6b0",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
             "id": "d345abc345d6eaf2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Building Block.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Building Block"
             }
           },
           {
@@ -159,7 +114,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -177,8 +132,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "16f2273bdd87dd9b",
+  "active": "7ff837febb4384d8",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Building Block.md",
+    "OCP.md",
+    "Beyond Classes.md",
+    "I/O.md",
+    "IO.md",
+    "Untitled 1.md",
+    "I",
+    "Concurrency.md",
+    "Modules.md",
+    "Exceptions and Localization.md",
+    "Streams.md",
+    "Collections and Generics.md",
+    "Lambdas and Functional Interfaces.md",
+    "Class Design.md",
+    "Welcome.md",
+    "Methods.md",
+    "Core APIs.md",
+    "Making Decisions.md",
+    "Operators.md",
+    "create a link.md",
+    "Excalidraw/Drawing 2025-07-08 23.59.32.excalidraw.md",
+    "Excalidraw",
+    "Java"
   ]
 }
