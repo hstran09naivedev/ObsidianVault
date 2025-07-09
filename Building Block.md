@@ -54,5 +54,88 @@ second
 * Purpose: Organize thousands of Java classes to avoid naming conflicts
 * Analogy: Like mailing addresses - package name is the building address, class name is the apartment number
 #### Package Naming Conventions
-* Hierarchical structure: `com.company.project.modul`
-* 
+* Hierarchical structure: `com.company.project.module`
+* Reverse domain naming: `com.wiley.javabook` (from wiley.com)
+* **JDK packages**: Start with `java` (e.g., `java.util`, `java.lang`)
+* **Child packages**: More specific packages (e.g., `java.util.concurrent.atomic`)
+* **Rules**: Mostly letters/numbers separated by periods
+Example
+```java
+package com.wiley.javabook;         // Valid
+package a.b.c;                      // Valid (exam style)
+package java.util;                  // JDK package
+package java.util.concurrent;       // Child package
+```
+#### Import Statements
+**Purpose**: Tell compiler which package to look in for classes
+**Without import**: Compiler error "cannot find symbol"
+Example
+```java
+// Without import - DOES NOT COMPILE
+public class NumberPicker {
+    public static void main(String[] args) {
+        Random r = new Random();  // Error: cannot find symbol
+    }
+}
+
+// With import - Compiles successfully
+import java.util.Random;
+public class NumberPicker {
+    public static void main(String[] args) {
+        Random r = new Random();  // Works!
+        System.out.println(r.nextInt(10));
+    }
+}
+```
+#### Wildcard Imports
+**Syntax**: `import java.util.*;`
+**Purpose**: Import all classes in a package
+**Limitation**: Does NOT import child packages
+**Performance**: No runtime impact - compiler optimizes
+##### [[Why avoid Wildcard Imports]]
+#### java.lang Package - Automatic Import
+- **Special package**: `java.lang` is automatically imported
+- **Common classes**: `String`, `System`, `Object`, `Integer`, etc.
+- **No explicit import needed**: Can use directly
+```java
+// These imports are REDUNDANT
+import java.lang.System;   // Redundant
+import java.lang.*;        // Redundant  
+import java.util.Random;   // Needed
+import java.util.*;        // Redundant if Random is specifically imported
+
+public class NumberPicker {
+    public static void main(String[] args) {
+        Random r = new Random();
+        System.out.println(r.nextInt(10)); // System available without import
+    }
+}
+```
+##### Naming Conflicts and Resolution
+- **Problem**: Multiple packages contain classes with same name
+- **Example**: `java.util.Date` vs `java.sql.Date`
+- **Resolution Rules**:
+    1. Explicit class import beats wildcard
+    2. Multiple wildcards with same class name = compiler error
+    3. Multiple explicit imports of same class = compiler error
+```java
+// CONFLICT - Compiler error
+import java.util.*;
+import java.sql.*;     // Both have Date class - ambiguous!
+
+// RESOLUTION 1 - Explicit import wins
+import java.util.Date; // Explicit import takes precedence
+import java.sql.*;     // Wildcard import
+
+// RESOLUTION 2 - Use fully qualified name
+import java.util.*;
+import java.sql.*;
+public class DateExample {
+    java.util.Date utilDate;     // Fully qualified
+    java.sql.Date sqlDate;       // Fully qualified
+}
+
+// ERROR - Multiple explicit imports
+import java.util.Date;
+import java.sql.Date;    // Compiler error - ambiguous 
+```
