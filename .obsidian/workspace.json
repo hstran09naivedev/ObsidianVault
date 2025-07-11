@@ -175,8 +175,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -194,10 +193,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dacb06aa523edd12",
+  "active": "d345abc345d6eaf2",
   "lastOpenFiles": [
-    "Building Block.md",
     "Why avoid Wildcard Imports.md",
+    "Building Block.md",
     "OCP.md",
     "Beyond Classes.md",
     "I/O.md",

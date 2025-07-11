@@ -111,7 +111,7 @@ public class NumberPicker {
     }
 }
 ```
-##### Naming Conflicts and Resolution
+#### Naming Conflicts and Resolution
 - **Problem**: Multiple packages contain classes with same name
 - **Example**: `java.util.Date` vs `java.sql.Date`
 - **Resolution Rules**:
