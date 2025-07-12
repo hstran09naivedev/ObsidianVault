@@ -141,7 +141,6 @@ import java.sql.Date;    // Compiler error - ambiguous
 ```
 ### 5. Understanding Data Types
 **Primitive Types**: Basic building blocks (`int`, `boolean`, `double`, etc.)
-
 **Reference Types**: Objects that can have methods and be assigned `null`
 **Wrapper Classes**: Reference type equivalents of primitives (`Integer`, `Boolean`, etc.)
 
