@@ -27,7 +27,7 @@ public class Animal {
 - Methods
 #### Keywords
 Special words with reserved meanings (`public`, `class`, etc.)
-### main() Method
+### 3. main() Method
 Standard signature: `public static void main(String[] args)`
 Command line arguments: `arg[0]`, `arg[1]`. Array indexing from 0
 #### Example
@@ -47,7 +47,7 @@ first
 second
 ```
 
-### Package Declarations and Imports
+### 4. Package Declarations and Imports
 
 #### What are Packages?
 * Logical groupings for classes, similar to folders in a file cabinet
@@ -139,3 +139,21 @@ public class DateExample {
 import java.util.Date;
 import java.sql.Date;    // Compiler error - ambiguous 
 ```
+### 5. Understanding Data Types
+**Primitive Types**: Basic building blocks (`int`, `boolean`, `double`, etc.)
+
+**Reference Types**: Objects that can have methods and be assigned `null`
+**Wrapper Classes**: Reference type equivalents of primitives (`Integer`, `Boolean`, etc.)
+
+| Type    | Size    | Range                           |
+| ------- | ------- | ------------------------------- |
+| boolean | -       | true/false                      |
+| byte    | 8 bits  | -128 to 127                     |
+| short   | 16 bits | -32,768 to 32,767               |
+| int     | 32 bits | -2,147,483,648 to 2,147,483,647 |
+| long    | 64 bits | Large range                     |
+| float   | 32 bits | Decimal numbers                 |
+| double  | 64 bits | Larger decimal numbers          |
+| char    | 16 bits | Single character                |
+
+[[Why is there no static size for boolean primitive type]]?
