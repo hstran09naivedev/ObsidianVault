@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Why is there no static size for boolean primitive type.md",
+                "file": "Building Block.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Why is there no static size for boolean primitive type"
+              "title": "Building Block"
             }
           },
           {
@@ -108,13 +108,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Why is there no static size for boolean primitive type.md",
+                "file": "Building Block.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Why is there no static size for boolean primitive type"
+              "title": "Outline of Building Block"
             }
           },
           {
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Why is there no static size for boolean primitive type.md",
+                "file": "Building Block.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +143,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Why is there no static size for boolean primitive type"
+              "title": "Backlinks for Building Block"
             }
           },
           {
@@ -152,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Why is there no static size for boolean primitive type.md",
+                "file": "Building Block.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Why is there no static size for boolean primitive type"
+              "title": "Outgoing links from Building Block"
             }
           },
           {
@@ -195,8 +195,8 @@
   },
   "active": "7ff837febb4384d8",
   "lastOpenFiles": [
-    "Building Block.md",
     "Why is there no static size for boolean primitive type.md",
+    "Building Block.md",
     "Why avoid Wildcard Imports.md",
     "OCP.md",
     "Beyond Classes.md",
