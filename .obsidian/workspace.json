@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "410588add1b44797",
+        "id": "9a83cb643640a277",
         "type": "tabs",
         "children": [
           {
-            "id": "9f7b0e8250f73adb",
+            "id": "c7f5b8aa60bd23ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Boxing and Unboxing.md",
+                "file": "Autoboxing and Unboxing.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Boxing and Unboxing.md"
+                "file": "Autoboxing and Unboxing.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Boxing and Unboxing.md",
+                "file": "Autoboxing and Unboxing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Boxing and Unboxing.md",
+                "file": "Autoboxing and Unboxing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,10 +156,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9f7b0e8250f73adb",
+  "active": "c7f5b8aa60bd23ae",
   "lastOpenFiles": [
+    "Autoboxing and Unboxing.md",
     "Building Block.md",
-    "Boxing and Unboxing.md",
     "OCP.md",
     "Why is there no defined size for boolean primitive type.md",
     "Why avoid Wildcard Imports.md",
