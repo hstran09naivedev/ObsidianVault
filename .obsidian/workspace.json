@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e2c5b75a727b51d7",
+        "id": "c3d1e672d0849d8b",
         "type": "tabs",
         "children": [
           {
-            "id": "7ff837febb4384d8",
+            "id": "0cee56869b8c92f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,20 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Building Block"
-            }
-          },
-          {
-            "id": "4d5cacbbe4ad2b42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Why avoid Wildcard Imports.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Why avoid Wildcard Imports"
             }
           }
         ]
@@ -193,12 +179,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ff837febb4384d8",
+  "active": "d345abc345d6eaf2",
   "lastOpenFiles": [
-    "Why is there no static size for boolean primitive type.md",
+    "OCP.md",
+    "Why is there no defined size for boolean primitive type.md",
     "Building Block.md",
     "Why avoid Wildcard Imports.md",
-    "OCP.md",
+    "Why is there no static size for boolean primitive type.md",
     "Beyond Classes.md",
     "I/O.md",
     "IO.md",
