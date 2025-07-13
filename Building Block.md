@@ -155,5 +155,5 @@ import java.sql.Date;    // Compiler error - ambiguous
 | double  | 64 bits | Larger decimal numbers          |
 | char    | 16 bits | Single character                |
 [[Autoboxing and Unboxing]]
-
+[[Why is there no defined size for boolean primitive type]]
 [[Why is there no defined size for boolean primitive type]]?

@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9a83cb643640a277",
+        "id": "75ac8f83eb86e96c",
         "type": "tabs",
         "children": [
           {
-            "id": "c7f5b8aa60bd23ae",
+            "id": "b901972a1f1e8aad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Autoboxing and Unboxing.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -38,8 +36,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +55,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +65,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,8 +90,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Autoboxing and Unboxing.md"
-              }
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           },
           {
@@ -94,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -103,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Autoboxing and Unboxing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +121,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -120,10 +132,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Autoboxing and Unboxing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -133,8 +146,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           }
         ],
@@ -152,16 +169,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c7f5b8aa60bd23ae",
+  "active": "b901972a1f1e8aad",
   "lastOpenFiles": [
     "Building Block.md",
+    "Why is there no defined size for boolean primitive type.md",
     "Autoboxing and Unboxing.md",
     "OCP.md",
-    "Why is there no defined size for boolean primitive type.md",
     "Why avoid Wildcard Imports.md",
     "Why is there no static size for boolean primitive type.md",
     "Beyond Classes.md",
