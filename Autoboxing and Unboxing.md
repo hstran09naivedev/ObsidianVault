@@ -22,3 +22,18 @@ Example:
 | `long`    | `Long`        | `Long l = 4L;`       |
 | `float`   | `Float`       | `Float f = 5.0f;`    |
 | `double`  | `Double`      | `Double d = 6.0;`    |
+Detail examples
+
+```java
+// Autoboxing examples
+Integer i = 100;          // int → Integer
+Double d = 3.14;          // double → Double
+Boolean b = true;         // boolean → Boolean
+Character c = 'X';        // char → Character
+
+// Unboxing examples
+int primitiveInt = i;     // Integer → int
+double primitiveDouble = d; // Double → double
+boolean primitiveBool = b;  // Boolean → boolean
+char primitiveChar = c;     // Character → char
+```
