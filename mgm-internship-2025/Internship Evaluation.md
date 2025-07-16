@@ -1,6 +1,11 @@
+1-5
 
-| Name           | Technical:                |        |                    |                      |                  | Teamwork |                   |               |            | English |
-| -------------- | ------------------------- | ------ | ------------------ | -------------------- | ---------------- | -------- | ----------------- | ------------- | ---------- | ------- |
-|                | Hard-working & commitment | Skills | Innovation & Ideas | Design and structure | Research ability | Attitude | Helpful & sharing | Communication | Leadership |         |
-| Bach Xuan Tran | Care                      |        |                    |                      |                  |          |                   |               |            |         |
-|                |                           |        |                    |                      |                  |          |                   |               |            |         |
+| Name           | Technical:                                                                         |        |                    |                      |                  | Teamwork |                   |                             |            | English |
+| -------------- | ---------------------------------------------------------------------------------- | ------ | ------------------ | -------------------- | ---------------- | -------- | ----------------- | --------------------------- | ---------- | ------- |
+|                | Hard-working & commitment                                                          | Skills | Innovation & Ideas | Design and structure | Research ability | Attitude | Helpful & sharing | Communication               | Leadership |         |
+| Bach Xuan Tran | Step by step, Deliberate                                                           | 3      | 3                  | 3                    | 3                | 4        | 4                 | A bit quiet                 | -          |         |
+| Van Y Tran     | Systematic thinking -> only what he learnt, have known -> Adhere the rules         | 4      | 4                  | 3                    | 3                | 4        | 5                 | Active                      | 4          |         |
+| Khang Duy Le   | Critical thinking, ask instantly when curious, Want to learn some tech news - good | 4      | 4                  | 4                    | 4                | 3        | 3                 | Normal - not introvert type | 3          |         |
+| Manh Duc Phan  | Fine, Doesn't show me much (seem like doesn't want to)                             | 3      | 3                  | 2                    | 3                | 3        | 3                 | 3 normal                    | 3          |         |
+| Hiếu Ngoc Ho   | Totally not background, mindset not bad                                            | 3      | 3                  | 2                    | 4                | 4        | 5                 | Fine - active               | 4          |         |
+| Hạ Xuân Võ     | Mindset make it complete                                                           |        |                    |                      |                  |          |                   |                             |            |         |
