@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "75ac8f83eb86e96c",
+        "id": "9a83cb643640a277",
         "type": "tabs",
         "children": [
           {
-            "id": "b901972a1f1e8aad",
+            "id": "c7f5b8aa60bd23ae",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "mgm-internship-2025/Internship Evaluation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -36,11 +38,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -55,9 +54,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -65,9 +62,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
@@ -90,12 +85,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
+                "file": "mgm-internship-2025/Internship Evaluation.md"
+              }
             }
           },
           {
@@ -103,9 +94,7 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "state": {}
             }
           },
           {
@@ -114,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "mgm-internship-2025/Internship Evaluation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,9 +111,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
+              }
             }
           },
           {
@@ -132,11 +120,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "mgm-internship-2025/Internship Evaluation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
+              }
             }
           },
           {
@@ -146,12 +133,8 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+                "useHierarchy": true
+              }
             }
           }
         ],
@@ -159,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,17 +153,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b901972a1f1e8aad",
+  "active": "c7f5b8aa60bd23ae",
   "lastOpenFiles": [
-    "Building Block.md",
     "Why is there no defined size for boolean primitive type.md",
-    "Autoboxing and Unboxing.md",
-    "OCP.md",
     "Why avoid Wildcard Imports.md",
+    "Streams.md",
+    "mgm-internship-2025/Internship Evaluation.md",
+    "Autoboxing and Unboxing.md",
+    "mgm-internship-2025",
+    "Building Block.md",
+    "OCP.md",
     "Why is there no static size for boolean primitive type.md",
     "Beyond Classes.md",
     "I/O.md",
@@ -189,7 +176,6 @@
     "Concurrency.md",
     "Modules.md",
     "Exceptions and Localization.md",
-    "Streams.md",
     "Collections and Generics.md",
     "Lambdas and Functional Interfaces.md",
     "Class Design.md",
