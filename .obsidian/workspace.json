@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "928c985a92f34a21",
+        "id": "5d4469f86077604b",
         "type": "tabs",
         "children": [
           {
-            "id": "6754ef24165f6de2",
+            "id": "d7b7e53fdb5b4473",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -177,7 +173,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dacb06aa523edd12",
+  "active": "d7b7e53fdb5b4473",
   "lastOpenFiles": [
     "mgm-internship-2025/Internship Evaluation.md",
     "mgm-internship-2025",
