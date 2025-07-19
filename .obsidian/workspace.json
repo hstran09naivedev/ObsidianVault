@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "75ac8f83eb86e96c",
+        "id": "928c985a92f34a21",
         "type": "tabs",
         "children": [
           {
-            "id": "b901972a1f1e8aad",
+            "id": "6754ef24165f6de2",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -173,8 +173,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b901972a1f1e8aad",
+  "active": "dacb06aa523edd12",
   "lastOpenFiles": [
+    "mgm-internship-2025/Internship Evaluation.md",
+    "mgm-internship-2025",
     "Why avoid Wildcard Imports.md",
     "Building Block.md",
     "Why is there no defined size for boolean primitive type.md",
