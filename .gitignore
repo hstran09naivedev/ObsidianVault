@@ -1,2 +1,155 @@
+# ===============================================
+# OBSIDIAN VAULT .GITIGNORE
+# ===============================================
 
-/.obsidian/workspace.json
+# ===========================================
+# OBSIDIAN CONFIGURATION FILES
+# ===========================================
+
+# Obsidian workspace and cache files (user-specific)
+.obsidian/workspace.json
+.obsidian/workspace
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# Obsidian graph data (regenerated automatically)
+.obsidian/graph.json
+
+# Obsidian hotkeys (personal preferences)
+.obsidian/hotkeys.json
+
+# Obsidian appearance settings (personal theme preferences)
+.obsidian/appearance.json
+
+# Obsidian core plugins settings (can be personal)
+.obsidian/core-plugins.json
+.obsidian/core-plugins-migration.json
+
+# Obsidian starred files (personal bookmarks)
+.obsidian/starred.json
+
+# Obsidian bookmarks (personal)
+.obsidian/bookmarks.json
+
+# Obsidian canvas data (may contain personal layouts)
+.obsidian/canvas.json
+
+# ===========================================
+# OBSIDIAN PLUGINS & THEMES
+# ===========================================
+
+# Plugin data and cache (regenerated)
+.obsidian/plugins/*/data.json
+.obsidian/plugins/*/cache/
+
+# Downloaded community themes (can be re-downloaded)
+.obsidian/themes/
+
+# Snippets might be personal
+.obsidian/snippets/
+
+# ===========================================
+# OBSIDIAN SYNC & BACKUP
+# ===========================================
+
+# Obsidian Sync conflict files
+*.sync-conflict-*
+
+# Trash folder (deleted notes)
+.trash/
+
+# ===========================================
+# OPERATING SYSTEM FILES
+# ===========================================
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+
+# ===========================================
+# TEMPORARY & BACKUP FILES
+# ===========================================
+
+# Vim temporary files
+*.swp
+*.swo
+*~
+
+# Emacs temporary files
+*#
+.#*
+
+# Backup files
+*.bak
+*.backup
+*.tmp
+
+# ===========================================
+# WHAT TO KEEP (COMMENTED EXAMPLES)
+# ===========================================
+
+# These files SHOULD be tracked (don't ignore):
+# .obsidian/app.json                    # App settings
+# .obsidian/community-plugins.json     # List of installed plugins
+# .obsidian/plugins/                    # Plugin configurations (not data)
+# *.md                                  # Your actual notes
+# *.canvas                              # Canvas files
+# *.excalidraw                          # Excalidraw drawings
+
+# ===========================================
+# PROJECT-SPECIFIC IGNORES
+# ===========================================
+
+# If you have specific folders for private notes
+Private/
+personal/
+drafts/
+
+# If you use templates that shouldn't be shared
+Templates/private/
+
+# Temporary note exports
+exports/
+*.pdf
+*.docx
+
+# ===========================================
+# DEVELOPMENT FILES (if using vault for code)
+# ===========================================
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.env
+.venv
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-*
