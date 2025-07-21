@@ -16,8 +16,51 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "1c95127ac7c803b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "kimi k2 for claude code script.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "kimi k2 for claude code script"
+            }
+          },
+          {
+            "id": "79b469db0160e188",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Using Claude code Router to overcome the API speed, Rate limit of KimiK2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Using Claude code Router to overcome the API speed, Rate limit of KimiK2"
+            }
+          },
+          {
+            "id": "4dec09208a04654c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Claude Code Router.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Claude Code Router"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -173,8 +216,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7b7e53fdb5b4473",
+  "active": "79b469db0160e188",
   "lastOpenFiles": [
+    "kimi k2 for claude code script.md",
+    "Using Claude code Router to overcome the API speed, Rate limit of KimiK2.md",
+    "Claude Code Router.md",
+    "Overcome the API speed, Rate limit of KimiK2.md",
+    "Untitled",
     "Building Block.md",
     "Making Decisions.md",
     "Lambdas and Functional Interfaces.md",
@@ -199,9 +247,6 @@
     "Welcome.md",
     "Methods.md",
     "Core APIs.md",
-    "Operators.md",
-    "create a link.md",
-    "Excalidraw/Drawing 2025-07-08 23.59.32.excalidraw.md",
     "Excalidraw",
     "Java"
   ]
