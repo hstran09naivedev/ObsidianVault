@@ -15,5 +15,3 @@ kimi() {
 ```
 Run `source ~/.bashrc` or `source ~/.zshrc` 
 Kill the terminal and open again and run `kimi` -> It will automatically call the claude code command line application
-
-[[Using Claude code Router to overcome the API speed, Rate limit of KimiK2]]
