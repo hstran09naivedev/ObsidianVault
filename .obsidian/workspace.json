@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5d4469f86077604b",
+        "id": "b131cc12a2944fb3",
         "type": "tabs",
         "children": [
           {
-            "id": "d7b7e53fdb5b4473",
+            "id": "516f5d8da8cd019b",
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "state": {}
             }
           }
         ]
@@ -36,11 +34,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -55,9 +50,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
+              }
             }
           },
           {
@@ -65,9 +58,7 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "state": {}
             }
           }
         ]
@@ -89,13 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
+              "state": {}
             }
           },
           {
@@ -103,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "state": {}
             }
           },
           {
@@ -121,9 +104,7 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
+              }
             }
           },
           {
@@ -134,9 +115,7 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links"
+              }
             }
           },
           {
@@ -146,12 +125,8 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
+                "useHierarchy": true
+              }
             }
           }
         ],
@@ -169,27 +144,24 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d7b7e53fdb5b4473",
+  "active": "516f5d8da8cd019b",
   "lastOpenFiles": [
-    "Claude Code Router.md",
-    "Claude Code.md",
-    "Kimi k2 for claude code script.md",
-    "Using Claude code Router.md",
-    "Using Claude code Router to overcome the API speed, Rate limit of KimiK2.md",
-    "Overcome the API speed, Rate limit of KimiK2.md",
-    "Untitled",
-    "Building Block.md",
-    "Making Decisions.md",
-    "Lambdas and Functional Interfaces.md",
-    "mgm-internship-2025/Internship Evaluation.md",
-    "mgm-internship-2025",
-    "Why avoid Wildcard Imports.md",
+    "English/English Channel.md",
+    "English",
     "Why is there no defined size for boolean primitive type.md",
+    "kimi k2 for claude code script.md",
+    "Claude Code.md",
+    "Claude Code Router.md",
+    "Why avoid Wildcard Imports.md",
+    "mgm-internship-2025/Internship Evaluation.md",
+    "Streams.md",
     "Autoboxing and Unboxing.md",
+    "mgm-internship-2025",
+    "Building Block.md",
     "OCP.md",
     "Why is there no static size for boolean primitive type.md",
     "Beyond Classes.md",
@@ -200,10 +172,13 @@
     "Concurrency.md",
     "Modules.md",
     "Exceptions and Localization.md",
-    "Streams.md",
     "Collections and Generics.md",
+    "Lambdas and Functional Interfaces.md",
     "Class Design.md",
     "Welcome.md",
+    "Methods.md",
+    "Core APIs.md",
+    "Making Decisions.md",
     "Excalidraw",
     "Java"
   ]
