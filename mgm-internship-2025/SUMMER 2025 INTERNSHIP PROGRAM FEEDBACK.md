@@ -34,7 +34,8 @@
 ### Conclusion
 The internship program received overall positive feedback regarding the work environment and training quality. However, adjustments should be considered for the program duration, better alignment of mentor expertise with intern specializations
 
-
 HCMC doesn't like Da Nang, we can deal on the last week of internship
 
-Training programs -> we could remove it or create some standard of knowledge before starting the project 
+Training programs -> we could remove it or create some standard of knowledge before starting the project
+
+
