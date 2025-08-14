@@ -11,8 +11,12 @@
             "id": "516f5d8da8cd019b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "mgm/mgm-internship-2025/Internship Evaluation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -148,8 +152,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "516f5d8da8cd019b",
+  "active": "dacb06aa523edd12",
   "lastOpenFiles": [
+    "mgm/2025 MGM Annual Performance Review - Prepared.md",
+    "Autoboxing and Unboxing.md",
+    "mgm/mgm-internship-2025/SUMMER 2025 INTERNSHIP PROGRAM FEEDBACK.md",
+    "Untitled",
+    "mgm",
+    "mgm/mgm-internship-2025/Internship Evaluation.md",
     "English/English Channel.md",
     "English",
     "Why is there no defined size for boolean primitive type.md",
@@ -157,10 +167,8 @@
     "Claude Code.md",
     "Claude Code Router.md",
     "Why avoid Wildcard Imports.md",
-    "mgm-internship-2025/Internship Evaluation.md",
     "Streams.md",
-    "Autoboxing and Unboxing.md",
-    "mgm-internship-2025",
+    "mgm/mgm-internship-2025",
     "Building Block.md",
     "OCP.md",
     "Why is there no static size for boolean primitive type.md",
@@ -177,8 +185,6 @@
     "Class Design.md",
     "Welcome.md",
     "Methods.md",
-    "Core APIs.md",
-    "Making Decisions.md",
     "Excalidraw",
     "Java"
   ]
