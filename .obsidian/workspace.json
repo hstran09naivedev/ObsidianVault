@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mgm/mgm-internship-2025/Internship Evaluation.md",
+                "file": "mgm/2025 MGM Annual Performance Review - Prepared.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c213e87d58cc89a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "mgm/Employee preparation for annual Review.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "mgm/Employee preparation for annual Review.md"
+              }
             }
           },
           {
@@ -101,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "mgm/Employee preparation for annual Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "mgm/Employee preparation for annual Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,20 +169,21 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dacb06aa523edd12",
+  "active": "1c213e87d58cc89a",
   "lastOpenFiles": [
+    "Claude Code Router.md",
+    "Claude Code.md",
+    "mgm/Employee preparation for annual Review.md",
     "mgm/2025 MGM Annual Performance Review - Prepared.md",
+    "mgm/mgm-internship-2025/Internship Evaluation.md",
     "Autoboxing and Unboxing.md",
     "mgm/mgm-internship-2025/SUMMER 2025 INTERNSHIP PROGRAM FEEDBACK.md",
     "Untitled",
     "mgm",
-    "mgm/mgm-internship-2025/Internship Evaluation.md",
     "English/English Channel.md",
     "English",
     "Why is there no defined size for boolean primitive type.md",
     "kimi k2 for claude code script.md",
-    "Claude Code.md",
-    "Claude Code Router.md",
     "Why avoid Wildcard Imports.md",
     "Streams.md",
     "mgm/mgm-internship-2025",
@@ -184,7 +202,6 @@
     "Lambdas and Functional Interfaces.md",
     "Class Design.md",
     "Welcome.md",
-    "Methods.md",
     "Excalidraw",
     "Java"
   ]
