@@ -181,3 +181,21 @@ Yes, interested in:
 - Enhanced soft skills in team leadership and patience management
 
 **Profile should reflect:** Current technical competencies, leadership capabilities, and readiness for expanded responsibilities.
+
+
+===
+### Feedback
+
+English <3  2 
+experienced
+eat them all
+organized
+Voicechat - 
+Quiet in meeting - be visible
+Short period REtro review 
+
+
+
+
+
+
