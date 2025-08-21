@@ -39,16 +39,30 @@
             "id": "7e52678749c6634e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.10"
+                "file": "mgm/mgm-internship-2025/SUMMER 2025 INTERNSHIP PROGRAM FEEDBACK.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.10"
+              "icon": "lucide-file",
+              "title": "SUMMER 2025 INTERNSHIP PROGRAM FEEDBACK"
+            }
+          },
+          {
+            "id": "b3dcde44e26acde3",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-08-21 16.53.34.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-08-21 16.53.34.excalidraw"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -121,13 +135,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mgm/2025 MGM Annual Performance Review - Prepared.md",
+                "file": "Excalidraw/Drawing 2025-08-21 16.53.34.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025 MGM Annual Performance Review - Prepared"
+              "title": "Outline of Drawing 2025-08-21 16.53.34.excalidraw"
             }
           },
           {
@@ -146,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mgm/2025 MGM Annual Performance Review - Prepared.md",
+                "file": "Excalidraw/Drawing 2025-08-21 16.53.34.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +170,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025 MGM Annual Performance Review - Prepared"
+              "title": "Backlinks for Drawing 2025-08-21 16.53.34.excalidraw"
             }
           },
           {
@@ -165,12 +179,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mgm/2025 MGM Annual Performance Review - Prepared.md",
+                "file": "Excalidraw/Drawing 2025-08-21 16.53.34.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025 MGM Annual Performance Review - Prepared"
+              "title": "Outgoing links from Drawing 2025-08-21 16.53.34.excalidraw"
             }
           },
           {
@@ -193,7 +207,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,15 +222,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7e52678749c6634e",
+  "active": "b3dcde44e26acde3",
   "lastOpenFiles": [
+    "mgm/mgm-internship-2025/SUMMER 2025 INTERNSHIP PROGRAM FEEDBACK.md",
+    "Excalidraw/Drawing 2025-08-21 16.53.34.excalidraw.md",
+    "Excalidraw",
+    "mgm/2025 MGM Annual Performance Review - Prepared.md",
+    "mgm/Employee preparation for annual Review.md",
     "Claude Code Router.md",
     "Claude Code.md",
-    "mgm/Employee preparation for annual Review.md",
-    "mgm/2025 MGM Annual Performance Review - Prepared.md",
     "mgm/mgm-internship-2025/Internship Evaluation.md",
     "Autoboxing and Unboxing.md",
-    "mgm/mgm-internship-2025/SUMMER 2025 INTERNSHIP PROGRAM FEEDBACK.md",
     "Untitled",
     "mgm",
     "English/English Channel.md",
@@ -239,8 +256,6 @@
     "Collections and Generics.md",
     "Lambdas and Functional Interfaces.md",
     "Class Design.md",
-    "Welcome.md",
-    "Excalidraw",
     "Java"
   ]
 }
