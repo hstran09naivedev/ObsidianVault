@@ -11,7 +11,7 @@ I'm developing a VoiceChat project and need assistance with [describe problem/fe
 **Problem to solve:** [detailed problem description]
 **Current tech stack:** [specific technologies/frameworks/libraries]
 
-**Important:** If you're unclear about any aspect of my project or requirements, please ask clarifying questions first. I prefer discussion over assumptions.
+**Important:** If you're unclear about any aspect of my project or requirements, please ask clarifying questions first. I prefer discussion over assumptions. Dont make it too details.
 
 Please provide 2-3 different solution approaches, each including:
 - Main concept
