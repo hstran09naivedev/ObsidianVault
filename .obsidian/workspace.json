@@ -39,16 +39,60 @@
             "id": "7e52678749c6634e",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "mgm/VoiceBot/Drawing 2025-08-21 16.53.34.excalidraw.md"
+                "file": "prompts/Brainstorming & Planning.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-21 16.53.34.excalidraw"
+              "icon": "lucide-file",
+              "title": "Brainstorming & Planning"
+            }
+          },
+          {
+            "id": "d2352df613861e07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "VoiceChat/VoiceChat Project Context.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VoiceChat Project Context"
+            }
+          },
+          {
+            "id": "1529838f3ec7f848",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "prompts/Brainstorming & Planning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brainstorming & Planning"
+            }
+          },
+          {
+            "id": "93da42b8047edcc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "prompts/Brainstorming & Planning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Brainstorming & Planning"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -121,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mgm/VoiceBot/Drawing 2025-08-21 16.53.34.excalidraw.md",
+                "file": "prompts/Brainstorming & Planning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-08-21 16.53.34.excalidraw"
+              "title": "Outline of Brainstorming & Planning"
             }
           },
           {
@@ -146,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mgm/VoiceBot/Drawing 2025-08-21 16.53.34.excalidraw.md",
+                "file": "prompts/Brainstorming & Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +200,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2025-08-21 16.53.34.excalidraw"
+              "title": "Backlinks for Brainstorming & Planning"
             }
           },
           {
@@ -165,12 +209,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mgm/VoiceBot/Drawing 2025-08-21 16.53.34.excalidraw.md",
+                "file": "prompts/Brainstorming & Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drawing 2025-08-21 16.53.34.excalidraw"
+              "title": "Outgoing links from Brainstorming & Planning"
             }
           },
           {
@@ -208,10 +252,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7e52678749c6634e",
+  "active": "93da42b8047edcc6",
   "lastOpenFiles": [
-    "mgm/mgm-internship-2025/SUMMER 2025 INTERNSHIP PROGRAM FEEDBACK.md",
+    "prompts/Code Review & Refactoring.md",
+    "prompts/Implementation Step-by-step.md",
+    "prompts/Brainstorming & Planning.md",
+    "VoiceChat/VoiceChat Current tech stack.md",
+    "VoiceChat/VoiceChat Project Context.md",
+    "VoiceChat",
+    "OCP.md",
+    "Operators.md",
+    "prompts",
     "mgm/VoiceBot/Drawing 2025-08-21 16.53.34.excalidraw.md",
+    "mgm/mgm-internship-2025/SUMMER 2025 INTERNSHIP PROGRAM FEEDBACK.md",
     "mgm/mgm-internship-2025/Internship Evaluation.md",
     "mgm/Annual Review/2025 Employee preparation for annual Review.md",
     "mgm/Annual Review/2025 MGM Annual Performance Review - Prepared.md",
@@ -220,7 +273,6 @@
     "Claude Code Router.md",
     "Claude Code.md",
     "Autoboxing and Unboxing.md",
-    "Untitled",
     "mgm",
     "English/English Channel.md",
     "English",
@@ -230,18 +282,12 @@
     "Streams.md",
     "mgm/mgm-internship-2025",
     "Building Block.md",
-    "OCP.md",
     "Why is there no static size for boolean primitive type.md",
     "Beyond Classes.md",
     "I/O.md",
     "IO.md",
     "Untitled 1.md",
     "I",
-    "Concurrency.md",
-    "Modules.md",
-    "Exceptions and Localization.md",
-    "Collections and Generics.md",
-    "Lambdas and Functional Interfaces.md",
     "Java"
   ]
 }
