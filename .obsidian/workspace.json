@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "0773b1c825a47699",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "aaa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "aaa"
+            }
+          },
+          {
             "id": "41a19f76b703c05d",
             "type": "leaf",
             "state": {
@@ -222,10 +236,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "41a19f76b703c05d",
+  "active": "0773b1c825a47699",
   "lastOpenFiles": [
-    "prompts/Prompt.md",
     "prompts/Implementation Step-by-step.md",
+    "aaa.md",
+    "prompts/Prompt.md",
     "prompts/Code Review & Refactoring.md",
     "prompts/Brainstorming & Planning.md",
     "VoiceChat/VoiceChat Current tech stack.md",
@@ -256,7 +271,6 @@
     "Why is there no static size for boolean primitive type.md",
     "Beyond Classes.md",
     "I/O.md",
-    "IO.md",
     "I",
     "Java"
   ]
