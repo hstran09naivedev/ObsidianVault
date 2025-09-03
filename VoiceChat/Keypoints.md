@@ -9,6 +9,6 @@ Due to the fact that the prototype project is ending. Please
 
 - Documentation of the metrics as discusssed last time incl. description of the dashboard implementation
 
-  
+
 
 Please focus on this so we have it available until next Thursday
