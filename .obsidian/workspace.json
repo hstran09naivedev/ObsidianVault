@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aaa.md",
+                "file": "AI/aaa.md",
                 "mode": "source",
                 "source": false
               },
@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "aaa.md",
+                "file": "Agile/Planning Internal (PI).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aaa"
+              "title": "Planning Internal (PI)"
             }
           }
         ],
@@ -240,40 +240,41 @@
   },
   "active": "d94d2db48dd5ced0",
   "lastOpenFiles": [
+    "Agile/Planning Internal (PI).md",
+    "OCP/Why is there no defined size for boolean primitive type.md",
+    "OCP/Why avoid Wildcard Imports.md",
+    "OCP/Streams.md",
+    "OCP/Making Decisions.md",
+    "OCP/OCP.md",
+    "OCP/Operators.md",
+    "OCP/Modules.md",
+    "OCP/Methods.md",
+    "OCP/Lambdas and Functional Interfaces.md",
+    "OCP/IO.md",
+    "AI/aaa.md",
+    "OCP/Exceptions and Localization.md",
+    "OCP/Core APIs.md",
+    "OCP/Concurrency.md",
+    "OCP/Collections and Generics.md",
+    "OCP/Class Design.md",
+    "OCP/Building Block.md",
+    "OCP/Beyond Classes.md",
+    "OCP/Autoboxing and Unboxing.md",
+    "OCP",
+    "AI/kimi k2 for claude code script.md",
+    "AI/Claude Code Router.md",
+    "AI/Claude Code.md",
+    "AI",
+    "Agile",
     "VoiceChat/Keypoints.md",
-    "aaa.md",
     "prompts/Brainstorming & Planning.md",
     "prompts/Implementation Step-by-step.md",
-    "prompts/Prompt.md",
-    "prompts/Code Review & Refactoring.md",
-    "VoiceChat/VoiceChat Current tech stack.md",
-    "VoiceChat/VoiceChat Project Context.md",
     "VoiceChat",
-    "OCP.md",
-    "Operators.md",
     "prompts",
-    "mgm/VoiceBot/Drawing 2025-08-21 16.53.34.excalidraw.md",
-    "mgm/mgm-internship-2025/SUMMER 2025 INTERNSHIP PROGRAM FEEDBACK.md",
-    "mgm/mgm-internship-2025/Internship Evaluation.md",
-    "mgm/Annual Review/2025 Employee preparation for annual Review.md",
-    "mgm/Annual Review/2025 MGM Annual Performance Review - Prepared.md",
     "mgm/Annual Review",
     "mgm/VoiceBot",
-    "Claude Code Router.md",
-    "Claude Code.md",
-    "Autoboxing and Unboxing.md",
     "mgm",
-    "English/English Channel.md",
     "English",
-    "Why is there no defined size for boolean primitive type.md",
-    "kimi k2 for claude code script.md",
-    "Why avoid Wildcard Imports.md",
-    "Streams.md",
-    "mgm/mgm-internship-2025",
-    "Building Block.md",
-    "Why is there no static size for boolean primitive type.md",
-    "Beyond Classes.md",
-    "I",
-    "Java"
+    "mgm/mgm-internship-2025"
   ]
 }
