@@ -69,24 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "VoiceChat/Keypoints.md",
+                "file": "aaa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Keypoints"
-            }
-          },
-          {
-            "id": "41a19f76b703c05d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.12"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.12"
+              "title": "aaa"
             }
           }
         ],
@@ -252,8 +240,8 @@
   },
   "active": "d94d2db48dd5ced0",
   "lastOpenFiles": [
-    "aaa.md",
     "VoiceChat/Keypoints.md",
+    "aaa.md",
     "prompts/Brainstorming & Planning.md",
     "prompts/Implementation Step-by-step.md",
     "prompts/Prompt.md",
