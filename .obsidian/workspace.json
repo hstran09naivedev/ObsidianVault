@@ -238,8 +238,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d94d2db48dd5ced0",
+  "active": "fd8f91e8e4404aa6",
   "lastOpenFiles": [
+    "audi/myAudiGo",
+    "audi",
     "Agile/Planning Internal (PI).md",
     "OCP/Why is there no defined size for boolean primitive type.md",
     "OCP/Why avoid Wildcard Imports.md",
@@ -268,13 +270,11 @@
     "Agile",
     "VoiceChat/Keypoints.md",
     "prompts/Brainstorming & Planning.md",
-    "prompts/Implementation Step-by-step.md",
     "VoiceChat",
     "prompts",
     "mgm/Annual Review",
     "mgm/VoiceBot",
     "mgm",
-    "English",
-    "mgm/mgm-internship-2025"
+    "English"
   ]
 }
