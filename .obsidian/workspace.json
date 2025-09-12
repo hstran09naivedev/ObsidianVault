@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "audi/myAudiGo/Note.md",
+                "file": "mgm/Accounts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Note"
+              "title": "Accounts"
             }
           }
         ],
@@ -226,9 +226,10 @@
   },
   "active": "0773b1c825a47699",
   "lastOpenFiles": [
+    "audi/myAudiGo/Note.md",
+    "mgm/Accounts.md",
     "AI/aaa.md",
     "Screenshot 2025-09-11 at 14.37.08.png",
-    "audi/myAudiGo/Note.md",
     "Agile/Planning Internal (PI).md",
     "audi/myAudiGo",
     "audi",
