@@ -53,14 +53,14 @@
             "id": "0773b1c825a47699",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "mgm/Accounts.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/plugins/obsidian-git/data.json",
+                "bFile": ".obsidian/plugins/obsidian-git/data.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Accounts"
+              "icon": "diff",
+              "title": "Diff: data.json"
             }
           }
         ],
@@ -226,8 +226,8 @@
   },
   "active": "0773b1c825a47699",
   "lastOpenFiles": [
-    "audi/myAudiGo/Note.md",
     "mgm/Accounts.md",
+    "audi/myAudiGo/Note.md",
     "AI/aaa.md",
     "Screenshot 2025-09-11 at 14.37.08.png",
     "Agile/Planning Internal (PI).md",
