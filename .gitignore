@@ -153,3 +153,4 @@ __pycache__/
 .vscode/
 .idea/
 *.sublime-*
+/.obsidian/workspace.json
