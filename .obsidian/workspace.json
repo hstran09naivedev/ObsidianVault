@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mgm/BFF (Backend for Frontend).md",
+                "file": "audi/myAudiGo/Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BFF (Backend for Frontend)"
+              "title": "Note"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mgm/BFF (Backend for Frontend).md",
+                "file": "audi/myAudiGo/Note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of BFF (Backend for Frontend)"
+              "title": "Outline of Note"
             }
           },
           {
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mgm/BFF (Backend for Frontend).md",
+                "file": "audi/myAudiGo/Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for BFF (Backend for Frontend)"
+              "title": "Backlinks for Note"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mgm/BFF (Backend for Frontend).md",
+                "file": "audi/myAudiGo/Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from BFF (Backend for Frontend)"
+              "title": "Outgoing links from Note"
             }
           },
           {
