@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b131cc12a2944fb3",
+        "id": "57a87b3e53752f7e",
         "type": "tabs",
         "children": [
           {
-            "id": "516f5d8da8cd019b",
+            "id": "516be9d8930ccc71",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "mgm/BFF (Backend for Frontend).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "BFF (Backend for Frontend)"
             }
           }
         ]
@@ -94,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "mgm/BFF (Backend for Frontend).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of BFF (Backend for Frontend)"
             }
           },
           {
@@ -118,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "mgm/BFF (Backend for Frontend).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for BFF (Backend for Frontend)"
             }
           },
           {
@@ -136,11 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "mgm/BFF (Backend for Frontend).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from BFF (Backend for Frontend)"
             }
           },
           {
@@ -178,8 +181,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "516f5d8da8cd019b",
+  "active": "516be9d8930ccc71",
   "lastOpenFiles": [
+    "mgm/BFF (Backend for Frontend).md",
     "mgm/Accounts.md",
     "mgm/Annual Review/2025 MGM Annual Performance Review - Prepared.md",
     "mgm/Annual Review/2025 Employee preparation for annual Review.md",
@@ -208,7 +212,6 @@
     "OCP/Class Design.md",
     "OCP/Building Block.md",
     "OCP/Beyond Classes.md",
-    "OCP/Autoboxing and Unboxing.md",
     "OCP",
     "AI",
     "Agile",
