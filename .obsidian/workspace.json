@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "audi/myAudiGo/Note.md",
+                "file": "mgm/TechShare/Internship mentoring experience.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Note"
+              "title": "Internship mentoring experience"
+            }
+          },
+          {
+            "id": "415271e683919076",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "mgm/TechShare/Drawing 2025-09-16 13.04.53.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-16 13.04.53.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,13 +107,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "audi/myAudiGo/Note.md",
+                "file": "mgm/TechShare/Drawing 2025-09-16 13.04.53.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Note"
+              "title": "Outline of Drawing 2025-09-16 13.04.53.excalidraw"
             }
           },
           {
@@ -119,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "audi/myAudiGo/Note.md",
+                "file": "mgm/TechShare/Drawing 2025-09-16 13.04.53.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Note"
+              "title": "Backlinks for Drawing 2025-09-16 13.04.53.excalidraw"
             }
           },
           {
@@ -138,12 +151,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "audi/myAudiGo/Note.md",
+                "file": "mgm/TechShare/Drawing 2025-09-16 13.04.53.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Note"
+              "title": "Outgoing links from Drawing 2025-09-16 13.04.53.excalidraw"
             }
           },
           {
@@ -181,14 +194,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "516be9d8930ccc71",
+  "active": "415271e683919076",
   "lastOpenFiles": [
+    "mgm/TechShare/Internship mentoring experience.md",
+    "mgm/TechShare/Drawing 2025-09-16 13.04.53.excalidraw.md",
+    "audi/myAudiGo/QA.md",
+    "mgm/TechShare",
+    "audi/myAudiGo/Note.md",
     "mgm/BFF (Backend for Frontend).md",
     "mgm/Accounts.md",
     "mgm/Annual Review/2025 MGM Annual Performance Review - Prepared.md",
     "mgm/Annual Review/2025 Employee preparation for annual Review.md",
     "prompts/Implementation Step-by-step.md",
-    "audi/myAudiGo/Note.md",
     "audi/myAudiGo",
     "audi",
     "conflict-files-obsidian-git.md",
@@ -209,16 +226,12 @@
     "OCP/Core APIs.md",
     "OCP/Concurrency.md",
     "OCP/Collections and Generics.md",
-    "OCP/Class Design.md",
-    "OCP/Building Block.md",
-    "OCP/Beyond Classes.md",
     "OCP",
     "AI",
     "Agile",
     "VoiceChat",
     "prompts",
     "mgm/Annual Review",
-    "mgm/VoiceBot",
-    "mgm"
+    "mgm/VoiceBot"
   ]
 }

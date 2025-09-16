@@ -1,1 +1,2 @@
-BFF stands for Backend for Frontend architecture?
+BFF stands for Backend for Frontend architecture? Yes
+
