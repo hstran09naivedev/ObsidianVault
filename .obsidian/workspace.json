@@ -25,12 +25,14 @@
             "id": "415271e683919076",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "mgm/TechShare/Drawing 2025-09-16 13.04.53.excalidraw.md"
+                "file": "audi/myAudiGo/QA.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-09-16 13.04.53.excalidraw"
+              "icon": "lucide-file",
+              "title": "QA"
             }
           }
         ],
@@ -107,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mgm/TechShare/Drawing 2025-09-16 13.04.53.excalidraw.md",
+                "file": "audi/myAudiGo/QA.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Drawing 2025-09-16 13.04.53.excalidraw"
+              "title": "Outline of QA"
             }
           },
           {
@@ -132,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mgm/TechShare/Drawing 2025-09-16 13.04.53.excalidraw.md",
+                "file": "audi/myAudiGo/QA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Drawing 2025-09-16 13.04.53.excalidraw"
+              "title": "Backlinks for QA"
             }
           },
           {
@@ -151,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mgm/TechShare/Drawing 2025-09-16 13.04.53.excalidraw.md",
+                "file": "audi/myAudiGo/QA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Drawing 2025-09-16 13.04.53.excalidraw"
+              "title": "Outgoing links from QA"
             }
           },
           {
@@ -196,8 +198,8 @@
   },
   "active": "415271e683919076",
   "lastOpenFiles": [
-    "mgm/TechShare/Internship mentoring experience.md",
     "mgm/TechShare/Drawing 2025-09-16 13.04.53.excalidraw.md",
+    "mgm/TechShare/Internship mentoring experience.md",
     "audi/myAudiGo/QA.md",
     "mgm/TechShare",
     "audi/myAudiGo/Note.md",
