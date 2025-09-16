@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "audi/myAudiGo/QA.md",
+                "file": "audi/myAudiGo/For daily.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "QA"
+              "title": "For daily"
             }
           }
         ],
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "audi/myAudiGo/QA.md",
+                "file": "audi/myAudiGo/For daily.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of QA"
+              "title": "Outline of For daily"
             }
           },
           {
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "audi/myAudiGo/QA.md",
+                "file": "audi/myAudiGo/For daily.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for QA"
+              "title": "Backlinks for For daily"
             }
           },
           {
@@ -153,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "audi/myAudiGo/QA.md",
+                "file": "audi/myAudiGo/For daily.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from QA"
+              "title": "Outgoing links from For daily"
             }
           },
           {
@@ -198,11 +198,12 @@
   },
   "active": "415271e683919076",
   "lastOpenFiles": [
+    "audi/myAudiGo/QA.md",
+    "audi/myAudiGo/For daily.md",
+    "audi/myAudiGo/Note.md",
     "mgm/TechShare/Drawing 2025-09-16 13.04.53.excalidraw.md",
     "mgm/TechShare/Internship mentoring experience.md",
-    "audi/myAudiGo/QA.md",
     "mgm/TechShare",
-    "audi/myAudiGo/Note.md",
     "mgm/BFF (Backend for Frontend).md",
     "mgm/Accounts.md",
     "mgm/Annual Review/2025 MGM Annual Performance Review - Prepared.md",
@@ -227,7 +228,6 @@
     "OCP/Exceptions and Localization.md",
     "OCP/Core APIs.md",
     "OCP/Concurrency.md",
-    "OCP/Collections and Generics.md",
     "OCP",
     "AI",
     "Agile",
