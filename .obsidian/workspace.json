@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "audi/myAudiGo/For daily.md",
+                "file": "prompts/Implementation Step-by-step.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "For daily"
+              "title": "Implementation Step-by-step"
             }
           }
         ],
@@ -109,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "audi/myAudiGo/For daily.md",
+                "file": "prompts/Implementation Step-by-step.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of For daily"
+              "title": "Outline of Implementation Step-by-step"
             }
           },
           {
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "audi/myAudiGo/For daily.md",
+                "file": "prompts/Implementation Step-by-step.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for For daily"
+              "title": "Backlinks for Implementation Step-by-step"
             }
           },
           {
@@ -153,12 +153,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "audi/myAudiGo/For daily.md",
+                "file": "prompts/Implementation Step-by-step.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from For daily"
+              "title": "Outgoing links from Implementation Step-by-step"
             }
           },
           {
@@ -198,8 +198,15 @@
   },
   "active": "415271e683919076",
   "lastOpenFiles": [
-    "audi/myAudiGo/QA.md",
+    "prompts/Code Review & Refactoring.md",
+    "prompts/Brainstorming & Planning.md",
+    "VoiceChat/Keypoints.md",
+    "AI/kimi k2 for claude code script.md",
+    "AI/Claude Code Router.md",
+    "AI/Claude Code.md",
+    "AI/aaa.md",
     "audi/myAudiGo/For daily.md",
+    "audi/myAudiGo/QA.md",
     "audi/myAudiGo/Note.md",
     "mgm/TechShare/Drawing 2025-09-16 13.04.53.excalidraw.md",
     "mgm/TechShare/Internship mentoring experience.md",
@@ -212,7 +219,6 @@
     "audi/myAudiGo",
     "audi",
     "conflict-files-obsidian-git.md",
-    "AI/aaa.md",
     "Screenshot 2025-09-11 at 14.37.08.png",
     "Agile/Planning Internal (PI).md",
     "OCP/Why is there no defined size for boolean primitive type.md",
@@ -222,12 +228,6 @@
     "OCP/OCP.md",
     "OCP/Operators.md",
     "OCP/Modules.md",
-    "OCP/Methods.md",
-    "OCP/Lambdas and Functional Interfaces.md",
-    "OCP/IO.md",
-    "OCP/Exceptions and Localization.md",
-    "OCP/Core APIs.md",
-    "OCP/Concurrency.md",
     "OCP",
     "AI",
     "Agile",

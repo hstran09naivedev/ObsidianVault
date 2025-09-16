@@ -1,6 +1,6 @@
 ## Template
 
-I have code in my VoiceChat project that needs review/refactoring:
+I have code in my [Project name] that needs review/refactoring:
 
 **Current code:**
 [paste code here]

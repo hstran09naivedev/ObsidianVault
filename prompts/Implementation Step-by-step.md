@@ -1,6 +1,6 @@
 ## Template
 
-I need to implement [specific feature/solution] for my VoiceChat project.
+I need to implement [specific feature/solution] for my [Project name] project.
 
 **Requirements details:**
 - [describe functionality needed]
@@ -13,7 +13,7 @@ Break this into clear implementation steps. Show ONLY THE FIRST STEP with:
 - Code to write/modify
 - How to test/verify this step
 
-**Important:** If you need more details about my project structure, existing code, or specific requirements, please ask before providing solutions. Let's discuss and clarify rather than making assumptions.
+**Important:** If you need more details about my project structure, existing code, or specific requirements, or not sure about anything, please ask before providing solutions. Let's discuss and clarify rather than making assumptions.
 
 After I confirm "DONE" for the current step, proceed to the next step.
 
