@@ -8,16 +8,15 @@
 ###### Personas
 ###### Planning
 
-#### Process
-##### Tools
+##### Process
+###### Tools
 Jira
 Confluence
 Code repository
-Pipeline
+CICD Pipeline 
 Communication channel - Webex
 
-
-##### Development Process
+###### Development Process
 Human Resources : 
 - 8 devs
 - 1 mentors/devs
@@ -25,9 +24,13 @@ Human Resources :
 Workplace: HCMC office
 **Mainly Scrum - Kanban**
 
+##### Technical
+
 
 #### Kickoff
-
+DoD
+Team Rules
+Working hours
 
 ### Operation
 
