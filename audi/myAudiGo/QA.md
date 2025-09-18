@@ -12,3 +12,5 @@ Mitigate/minimise risk by manual as a human. As a human we could make mistake, t
 Git instruction? -> Not yet
 
 
+===
+The multiple DBMS: oracle, mysql, h2 -> Do I need to care 
