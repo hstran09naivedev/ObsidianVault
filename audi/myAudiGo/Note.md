@@ -25,6 +25,6 @@ For existing auto_increment (and we don't add/modify any more), It will not be a
 - [x]  For **PARTITIONED tables**: verify partitioning info is preserved
 -> Found nothing
 - [ ]  Review **foreign key ON UPDATE/DELETE** rules
--> Saved in the csv file
-- [ ]  Compare DDLs (Liquibase vs. mysqldump) for surprises
+-> Saved in the csv file -> Updated in the 1.sql
+- [ ]  Use mysqldump to confirm the script
 
