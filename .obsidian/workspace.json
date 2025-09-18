@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "57a87b3e53752f7e",
+        "id": "548c8fc26eca3ed6",
         "type": "tabs",
         "children": [
           {
-            "id": "516be9d8930ccc71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "mgm/TechShare/Internship mentoring experience.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Internship mentoring experience"
-            }
-          },
-          {
-            "id": "415271e683919076",
+            "id": "fd935aa709ec5dd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "Note"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -176,7 +161,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -195,11 +181,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "415271e683919076",
+  "active": "fd935aa709ec5dd0",
   "lastOpenFiles": [
+    "audi/myAudiGo/Note.md",
     "audi/myAudiGo/BFF (Backend for Frontend).md",
     "audi/myAudiGo/For daily.md",
-    "audi/myAudiGo/Note.md",
     "audi/myAudiGo/QA.md",
     "mgm/Internship mentoring.md",
     "mgm/Accounts.md",
