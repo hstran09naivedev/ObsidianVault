@@ -23,7 +23,7 @@ Human Resources :
 - +- 2 Stakeholder and Technical support (FE)
 Workplace: HCMC office (face to face working)
 **Mainly using Scrum and Kanban**
-Apply some scrum ceremonies
+Apply scrum ceremonies (daily, refinement, planning, review)
 
 ##### Jira Flow
 ##### Technical
