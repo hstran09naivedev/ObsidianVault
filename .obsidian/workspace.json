@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "548c8fc26eca3ed6",
+        "id": "83a49fdfc4589253",
         "type": "tabs",
         "children": [
           {
-            "id": "fd935aa709ec5dd0",
+            "id": "6566d589ad778f55",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "audi/myAudiGo/Note.md",
+                "file": "mgm/Internship mentoring.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Note"
+              "title": "Internship mentoring"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "audi/myAudiGo/Note.md",
+                "file": "mgm/Internship mentoring.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Note"
+              "title": "Outline of Internship mentoring"
             }
           },
           {
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "audi/myAudiGo/Note.md",
+                "file": "mgm/Internship mentoring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Note"
+              "title": "Backlinks for Internship mentoring"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "audi/myAudiGo/Note.md",
+                "file": "mgm/Internship mentoring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Note"
+              "title": "Outgoing links from Internship mentoring"
             }
           },
           {
@@ -161,8 +161,7 @@
               "title": "Tags"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,14 +180,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fd935aa709ec5dd0",
+  "active": "d345abc345d6eaf2",
   "lastOpenFiles": [
-    "audi/myAudiGo/Note.md",
-    "audi/myAudiGo/BFF (Backend for Frontend).md",
-    "audi/myAudiGo/For daily.md",
     "audi/myAudiGo/QA.md",
+    "audi/myAudiGo/Note.md",
     "mgm/Internship mentoring.md",
     "mgm/Accounts.md",
+    "audi/myAudiGo/BFF (Backend for Frontend).md",
+    "audi/myAudiGo/For daily.md",
     "prompts/Implementation Step-by-step.md",
     "prompts/Code Review & Refactoring.md",
     "prompts/Brainstorming & Planning.md",
