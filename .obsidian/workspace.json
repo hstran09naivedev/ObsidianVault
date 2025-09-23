@@ -11,14 +11,14 @@
             "id": "fdf309096b73d4cb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "mgm/TechShare/Content.md",
-                "mode": "source",
-                "source": false
+                "aFile": "mgm/TechShare/Content.md",
+                "bFile": "mgm/TechShare/Content.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Content"
+              "icon": "diff",
+              "title": "Diff: Content"
             }
           }
         ]
@@ -94,13 +94,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mgm/TechShare/Content.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Content"
+              "title": "Outline"
             }
           },
           {
@@ -119,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mgm/TechShare/Content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Content"
+              "title": "Backlinks"
             }
           },
           {
@@ -138,12 +136,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mgm/TechShare/Content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Content"
+              "title": "Outgoing links"
             }
           },
           {
@@ -183,6 +180,7 @@
   },
   "active": "fdf309096b73d4cb",
   "lastOpenFiles": [
+    "mgm/TechShare/Content.md",
     "Agile-Manifesto-edited.png",
     "1697296411254.gif",
     "scrum-cheat-sheet-header-1.webp",
@@ -192,7 +190,6 @@
     "1664369490-3563890573",
     "mgm/TechShare/Internship mentoring experience.md",
     "LinkedIn Ad for PSM Nashville_with_water mark.jpg",
-    "mgm/TechShare/Content.md",
     "LinkedIn Ad for PSM Nashville_with_water mark.jpg.crdownload",
     "product-owner-slide2.png",
     "roles-of-a-scrum-product-owner-po-1024x535.jpeg",
