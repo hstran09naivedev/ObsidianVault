@@ -1,8 +1,12 @@
 
-# Early Stage
-## Challenges:
+# Very Early Stage
+## Challenges
 Don't know how to start/kickoff a project in mgm
+Don't know which topic should suit for the internship program -> Go with the flow
+Don't understand frontend very well for a complete output -> Everything will be fine :D
+Only me for the whole project - Too many perspectives/things to worry about? -> Me? I'm worry? No :))
 
+# Early Stage
 ### Technical 
 Java - Springboot - Typescript - React - Jenkins for CICD - docker artifactory from mgm - VM for product deployment
 
@@ -11,7 +15,7 @@ Topic to choose -> How the internship's product looks like. Below is what I have
 
 **Niche social network** - where mgm can share meme :) 
 A software that can share the technical ideas, tips, tricks, a12 knowledge replacing ***Today I learned*** group chat
-Somewhere we can send digest email to recommend user to 
+we can receive digest email to recommend user for some good contents
 
 ### Process
 To work through 2 months - output -> discipline 
