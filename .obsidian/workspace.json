@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mgm/Annual Review/2025 Employee preparation for annual Review.md",
+                "file": "audi/myAudiGo/Note.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025 Employee preparation for annual Review"
+              "title": "Note"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mgm/Annual Review/2025 Employee preparation for annual Review.md",
+                "file": "audi/myAudiGo/Note.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2025 Employee preparation for annual Review"
+              "title": "Outline of Note"
             }
           },
           {
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mgm/Annual Review/2025 Employee preparation for annual Review.md",
+                "file": "audi/myAudiGo/Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025 Employee preparation for annual Review"
+              "title": "Backlinks for Note"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mgm/Annual Review/2025 Employee preparation for annual Review.md",
+                "file": "audi/myAudiGo/Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2025 Employee preparation for annual Review"
+              "title": "Outgoing links from Note"
             }
           },
           {
@@ -182,8 +182,10 @@
   },
   "active": "6566d589ad778f55",
   "lastOpenFiles": [
-    "mgm/Annual Review/2025 MGM Annual Performance Review - Prepared.md",
+    "audi/myAudiGo/QA.md",
+    "audi/myAudiGo/Note.md",
     "mgm/Annual Review/2025 Employee preparation for annual Review.md",
+    "mgm/Annual Review/2025 MGM Annual Performance Review - Prepared.md",
     "Agile/Planning Internal (PI).md",
     "mgm/Internship mentoring.md",
     "mgm/Accounts.md",
@@ -198,11 +200,9 @@
     "prompts/Implementation Step-by-step.md",
     "prompts/Prompt.md",
     "VoiceChat/Keypoints.md",
-    "audi/myAudiGo/QA.md",
     "Untitled.canvas",
     "Drawing 2025-09-23 12.55.17.excalidraw.md",
     "property_keys_blacklist.txt",
-    "audi/myAudiGo/Note.md",
     "audi/myAudiGo/BFF (Backend for Frontend).md",
     "audi/myAudiGo/For daily.md",
     "AI/kimi k2 for claude code script.md",
