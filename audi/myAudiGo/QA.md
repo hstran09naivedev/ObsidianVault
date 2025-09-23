@@ -15,3 +15,5 @@ Git instruction? -> Not yet
 ===
 The multiple DBMS: oracle, mysql, h2 -> Do I need to care the DBms context
 
+===
+What is property_keys_blacklist.txt in bff service used for?

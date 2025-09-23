@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mgm/Internship mentoring.md",
+                "file": "mgm/Annual Review/2025 Employee preparation for annual Review.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Internship mentoring"
+              "title": "2025 Employee preparation for annual Review"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mgm/Internship mentoring.md",
+                "file": "mgm/Annual Review/2025 Employee preparation for annual Review.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Internship mentoring"
+              "title": "Outline of 2025 Employee preparation for annual Review"
             }
           },
           {
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mgm/Internship mentoring.md",
+                "file": "mgm/Annual Review/2025 Employee preparation for annual Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Internship mentoring"
+              "title": "Backlinks for 2025 Employee preparation for annual Review"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mgm/Internship mentoring.md",
+                "file": "mgm/Annual Review/2025 Employee preparation for annual Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Internship mentoring"
+              "title": "Outgoing links from 2025 Employee preparation for annual Review"
             }
           },
           {
@@ -165,7 +165,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 504.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,42 +182,43 @@
   },
   "active": "6566d589ad778f55",
   "lastOpenFiles": [
-    "prompts/Brainstorming & Planning.md",
-    "prompts/Prompt.md",
+    "mgm/Annual Review/2025 MGM Annual Performance Review - Prepared.md",
+    "mgm/Annual Review/2025 Employee preparation for annual Review.md",
+    "Agile/Planning Internal (PI).md",
     "mgm/Internship mentoring.md",
-    "audi/myAudiGo/QA.md",
-    "audi/myAudiGo/Note.md",
     "mgm/Accounts.md",
+    "English/English Channel.md",
+    "mgm/mgm-internship-2025/SUMMER 2025 INTERNSHIP PROGRAM FEEDBACK.md",
+    "mgm/mgm-internship-2025/Internship Evaluation.md",
+    "mgm/TechShare/Internship mentoring experience.md",
+    "mgm/TechShare/Drawing 2025-09-16 13.04.53.excalidraw.md",
+    "OCP/Autoboxing and Unboxing.md",
+    "prompts/Brainstorming & Planning.md",
+    "prompts/Code Review & Refactoring.md",
+    "prompts/Implementation Step-by-step.md",
+    "prompts/Prompt.md",
+    "VoiceChat/Keypoints.md",
+    "audi/myAudiGo/QA.md",
+    "Untitled.canvas",
+    "Drawing 2025-09-23 12.55.17.excalidraw.md",
+    "property_keys_blacklist.txt",
+    "audi/myAudiGo/Note.md",
     "audi/myAudiGo/BFF (Backend for Frontend).md",
     "audi/myAudiGo/For daily.md",
-    "prompts/Implementation Step-by-step.md",
-    "prompts/Code Review & Refactoring.md",
-    "VoiceChat/Keypoints.md",
     "AI/kimi k2 for claude code script.md",
     "AI/Claude Code Router.md",
     "AI/Claude Code.md",
     "AI/aaa.md",
-    "mgm/TechShare/Drawing 2025-09-16 13.04.53.excalidraw.md",
-    "mgm/TechShare/Internship mentoring experience.md",
     "mgm/TechShare",
-    "mgm/Annual Review/2025 MGM Annual Performance Review - Prepared.md",
-    "mgm/Annual Review/2025 Employee preparation for annual Review.md",
     "audi/myAudiGo",
     "audi",
     "conflict-files-obsidian-git.md",
     "Screenshot 2025-09-11 at 14.37.08.png",
-    "Agile/Planning Internal (PI).md",
-    "OCP/Why is there no defined size for boolean primitive type.md",
-    "OCP/Why avoid Wildcard Imports.md",
-    "OCP/Streams.md",
-    "OCP/Making Decisions.md",
-    "OCP/OCP.md",
     "OCP",
     "AI",
     "Agile",
     "VoiceChat",
     "prompts",
-    "mgm/Annual Review",
-    "mgm/VoiceBot"
+    "mgm/Annual Review"
   ]
 }
