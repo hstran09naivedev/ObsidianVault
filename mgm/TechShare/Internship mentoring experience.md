@@ -4,6 +4,8 @@
 **Product Owner**
 
 
+Relationship between roles in Scrum https://www.scrum.org/courses/professional-scrum-product-owner-2020-06-10-38442
+
 
 ## **Risk-First Planning**
 

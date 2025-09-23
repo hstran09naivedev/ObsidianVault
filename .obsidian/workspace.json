@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "83a49fdfc4589253",
+        "id": "f1bd6e8c40811783",
         "type": "tabs",
         "children": [
           {
-            "id": "6566d589ad778f55",
+            "id": "fdf309096b73d4cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mgm/TechShare/Internship mentoring experience.md",
+                "file": "mgm/TechShare/Content.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Internship mentoring experience"
+              "title": "Content"
             }
           }
         ]
@@ -94,13 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mgm/TechShare/Internship mentoring experience.md",
+                "file": "mgm/TechShare/Content.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Internship mentoring experience"
+              "title": "Outline of Content"
             }
           },
           {
@@ -119,7 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mgm/TechShare/Internship mentoring experience.md",
+                "file": "mgm/TechShare/Content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Internship mentoring experience"
+              "title": "Backlinks for Content"
             }
           },
           {
@@ -138,12 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mgm/TechShare/Internship mentoring experience.md",
+                "file": "mgm/TechShare/Content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Internship mentoring experience"
+              "title": "Outgoing links from Content"
             }
           },
           {
@@ -161,7 +161,8 @@
               "title": "Tags"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,8 +181,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6566d589ad778f55",
+  "active": "fdf309096b73d4cb",
   "lastOpenFiles": [
+    "Agile-Manifesto-edited.png",
+    "1697296411254.gif",
+    "scrum-cheat-sheet-header-1.webp",
+    "b9cef4_7e90fbc5414b4a19930c832c0dddf795~mv2.avif",
+    "b9cef4_7e90fbc5414b4a19930c832c0dddf795~mv2.avif.crdownload",
+    "1664369490.webp",
+    "1664369490-3563890573",
+    "mgm/TechShare/Internship mentoring experience.md",
+    "LinkedIn Ad for PSM Nashville_with_water mark.jpg",
+    "mgm/TechShare/Content.md",
+    "LinkedIn Ad for PSM Nashville_with_water mark.jpg.crdownload",
+    "product-owner-slide2.png",
     "roles-of-a-scrum-product-owner-po-1024x535.jpeg",
     "mgm/Internship mentoring.md",
     "audi/myAudiGo/Note.md",
@@ -193,7 +206,6 @@
     "English/English Channel.md",
     "mgm/mgm-internship-2025/SUMMER 2025 INTERNSHIP PROGRAM FEEDBACK.md",
     "mgm/mgm-internship-2025/Internship Evaluation.md",
-    "mgm/TechShare/Internship mentoring experience.md",
     "mgm/TechShare/Drawing 2025-09-16 13.04.53.excalidraw.md",
     "OCP/Autoboxing and Unboxing.md",
     "prompts/Brainstorming & Planning.md",
@@ -209,16 +221,12 @@
     "AI/kimi k2 for claude code script.md",
     "AI/Claude Code Router.md",
     "AI/Claude Code.md",
-    "AI/aaa.md",
     "mgm/TechShare",
     "audi/myAudiGo",
     "audi",
     "Screenshot 2025-09-11 at 14.37.08.png",
     "OCP",
     "AI",
-    "Agile",
-    "VoiceChat",
-    "prompts",
-    "mgm/Annual Review"
+    "Agile"
   ]
 }
