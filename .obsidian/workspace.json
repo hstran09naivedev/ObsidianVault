@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "425be6f9351eb582",
+        "id": "c05a1284a5d211dd",
         "type": "tabs",
         "children": [
           {
-            "id": "8bf7d150f0a81125",
+            "id": "d15b8294dee8742e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -181,21 +181,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8bf7d150f0a81125",
+  "active": "d15b8294dee8742e",
   "lastOpenFiles": [
-    "mgm/TechShare/Content.md",
-    "Agile-Manifesto-edited.png",
-    "1697296411254.gif",
-    "scrum-cheat-sheet-header-1.webp",
     "b9cef4_7e90fbc5414b4a19930c832c0dddf795~mv2.avif",
+    "Agile-Manifesto-edited.png",
+    "LinkedIn Ad for PSM Nashville_with_water mark.jpg",
+    "product-owner-slide2.png",
+    "roles-of-a-scrum-product-owner-po-1024x535.jpeg",
+    "scrum-cheat-sheet-header-1.webp",
+    "mgm/TechShare/Content.md",
+    "mgm/TechShare/Internship mentoring experience.md",
+    "prompts/Implementation Step-by-step.md",
+    "1697296411254.gif",
     "b9cef4_7e90fbc5414b4a19930c832c0dddf795~mv2.avif.crdownload",
     "1664369490.webp",
     "1664369490-3563890573",
-    "mgm/TechShare/Internship mentoring experience.md",
-    "LinkedIn Ad for PSM Nashville_with_water mark.jpg",
     "LinkedIn Ad for PSM Nashville_with_water mark.jpg.crdownload",
-    "product-owner-slide2.png",
-    "roles-of-a-scrum-product-owner-po-1024x535.jpeg",
     "mgm/Internship mentoring.md",
     "audi/myAudiGo/Note.md",
     "audi/myAudiGo/QA.md",
@@ -210,7 +211,6 @@
     "OCP/Autoboxing and Unboxing.md",
     "prompts/Brainstorming & Planning.md",
     "prompts/Code Review & Refactoring.md",
-    "prompts/Implementation Step-by-step.md",
     "prompts/Prompt.md",
     "VoiceChat/Keypoints.md",
     "Untitled.canvas",

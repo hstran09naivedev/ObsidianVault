@@ -15,14 +15,33 @@ Topic to choose -> How the internship's product looks like. Below is what I have
 
 **Niche social network for memes** - image editor on FE side > No 
 A software that can share the technical ideas, tips, tricks, a12 knowledge... replacing ***Today I learned*** group chat
+We can receive digest emails to recommend user for some good contents
 
-We can receive digest email to recommend user for some good contents
+Create **Product Vision**:
+**FOR** employees in our organization  
+**WHO** need to find solutions quickly and share their expertise efficiently,  
+**THE** Knowledge Hub is an internal knowledge sharing application  
+**THAT** captures, organizes, and surfaces collective wisdom in real-time,  
+**UNLIKE** generic wikis or chat channels,  
+**OUR PRODUCT** Uses community-driven curation ~~and gamified contributions~~ to make knowledge sharing as natural and rewarding as social media.
+
+Create :
+User personas
+Activities
+Tasks
+Stories
+
 
 ### Process
 To work through 2 months - output -> discipline
 #### Core conditions to start and sustain Scrum
 
-Team Structure
+**Team Structure**
+**Commitment to Scrum Events**
+**Sprint Cadence**
+**Self-Organization and Cross-Functionality**
+**Clear Definition of Done**
+
 ##### 1. Dedicated Scrum Team
 - **Roles**: Clearly assigned Scrum roles — Product Owner, Scrum Master, and Development Team.
 - **Team Size**: Typically 3–9 Development Team members (optimal for communication and collaboration).
@@ -44,34 +63,34 @@ Team Structure
 
 ---
 
-##### 5. **Sprint Cadence**
+##### 5. Sprint Cadence**
 
 - Fixed, consistent sprint length (normally 1–4 weeks).
 - Commitment to delivering a “potentially shippable product increment” every sprint.
 
 ---
 
-##### 6. **Self-Organization and Cross-Functionality**
+##### 6. Self-Organization and Cross-Functionality**
 
 - Team is empowered to decide how to complete work.
 - Team includes all necessary skills to deliver the product increment.
 
 ---
 
-##### 7. **Transparency and Openness**
+##### 7. Transparency and Openness**
 
 - All work and process are visible to stakeholders.
 - Tools for transparency: Task boards, burn-down charts, etc.
 
 ---
 
-##### 8. **Stakeholder Engagement**
+##### 8. Stakeholder Engagement**
 
 - Stakeholders willing to participate in reviews and communicate requirements.
 
 ---
 
-##### 9. **Organizational Support**
+##### 9. Organizational Support**
 
 - Management and organizational buy-in for Scrum framework.
 - Support for team autonomy and time-boxed processes.
@@ -84,3 +103,7 @@ The team member's qualifications
 **Tools**
 Is there any issues with my provided tools (jira, confluence, pipeline, VM)
 
+
+
+
+#### abc
