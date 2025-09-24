@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f1bd6e8c40811783",
+        "id": "425be6f9351eb582",
         "type": "tabs",
         "children": [
           {
-            "id": "fdf309096b73d4cb",
+            "id": "8bf7d150f0a81125",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "mgm/TechShare/Content.md",
-                "bFile": "mgm/TechShare/Content.md",
-                "aRef": ""
+                "file": "mgm/TechShare/Content.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Content"
+              "icon": "lucide-file",
+              "title": "Content"
             }
           }
         ]
@@ -94,12 +94,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "mgm/TechShare/Content.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Content"
             }
           },
           {
@@ -118,6 +119,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "mgm/TechShare/Content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Content"
             }
           },
           {
@@ -136,11 +138,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "mgm/TechShare/Content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Content"
             }
           },
           {
@@ -178,7 +181,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "fdf309096b73d4cb",
+  "active": "8bf7d150f0a81125",
   "lastOpenFiles": [
     "mgm/TechShare/Content.md",
     "Agile-Manifesto-edited.png",

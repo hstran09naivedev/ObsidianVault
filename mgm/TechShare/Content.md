@@ -13,12 +13,13 @@ Java - Springboot - Typescript - React - Jenkins for CICD - docker artifactory f
 ### Product 
 Topic to choose -> How the internship's product looks like. Below is what I have
 
-**Niche social network** - where mgm can share meme :) 
-A software that can share the technical ideas, tips, tricks, a12 knowledge replacing ***Today I learned*** group chat
-we can receive digest email to recommend user for some good contents
+**Niche social network for memes** - image editor on FE side > No 
+A software that can share the technical ideas, tips, tricks, a12 knowledge... replacing ***Today I learned*** group chat
+
+We can receive digest email to recommend user for some good contents
 
 ### Process
-To work through 2 months - output -> discipline 
+To work through 2 months - output -> discipline
 #### Core conditions to start and sustain Scrum
 
 Team Structure
