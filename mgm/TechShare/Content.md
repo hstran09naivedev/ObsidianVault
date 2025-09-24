@@ -17,7 +17,7 @@ Topic to choose -> How the internship's product looks like. Below is what I have
 A software that can share the technical ideas, tips, tricks, a12 knowledge... replacing ***Today I learned*** group chat
 We can receive digest emails to recommend user for some good contents
 
-Create **Product Vision**:
+Define and Orient Product - **Product Vision**:
 **FOR** employees in our organization  
 **WHO** need to find solutions quickly and share their expertise efficiently,  
 **THE** Knowledge Hub is an internal knowledge sharing application  
@@ -25,18 +25,21 @@ Create **Product Vision**:
 **UNLIKE** generic wikis or chat channels,  
 **OUR PRODUCT** Uses community-driven curation ~~and gamified contributions~~ to make knowledge sharing as natural and rewarding as social media.
 
-Create :
-User personas
-Activities
-Tasks
-Stories
-
-
+**Planning**
+User Story Map (TopDown)
+ 
+**Personas**: Consumer/Publisher - Admin -> Participant - Admin
+**Activities**: Authen  - Discover - Create - Engage - Self Organization - Manage Platform
+**Tasks**: Login, Logout, Forget Pasword, Reset Password - Browser and Explore, Search, Read -
+Stories: As {someone}, I want to {action}, so that I can {purpose}
+This template answer the question when define a backlog item:
+Who, what, why in business perspective only 
+UINVEST - **Acceptance Criteria**
 ### Process
 To work through 2 months - output -> discipline
 #### Core conditions to start and sustain Scrum
 
-**Team Structure**
+**Team Structure** - Product Owner - Scrum Master - Development team (Tech Lead)
 **Commitment to Scrum Events**
 **Sprint Cadence**
 **Self-Organization and Cross-Functionality**
