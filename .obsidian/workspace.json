@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "audi/myAudiGo/Note.md",
+                "file": "mgm/TechShare/Content.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Note"
+              "title": "Content"
             }
           }
         ],
@@ -105,13 +105,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "audi/myAudiGo/Note.md",
+                "file": "mgm/TechShare/Content.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Note"
+              "title": "Outline of Content"
             }
           },
           {
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "audi/myAudiGo/Note.md",
+                "file": "mgm/TechShare/Content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Note"
+              "title": "Backlinks for Content"
             }
           },
           {
@@ -149,12 +149,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "audi/myAudiGo/Note.md",
+                "file": "mgm/TechShare/Content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Note"
+              "title": "Outgoing links from Content"
             }
           },
           {
@@ -195,13 +195,14 @@
   },
   "active": "eb7e7a35b3da103c",
   "lastOpenFiles": [
-    "mgm/TechShare/Content.md",
     "mgm/TechShare/Internship mentoring experience.md",
-    "mgm/TechShare/Drawing 2025-09-16 13.04.53.excalidraw.md",
-    "mgm/TechShare/Drawing 2025-09-16 13.04.53.excalidraw.restored.md",
+    "mgm/TechShare/Content.md",
     "Agile-Manifesto-edited.png",
     "1697296411254.gif",
     "1664369490.webp",
+    "audi/myAudiGo/Note.md",
+    "mgm/TechShare/Drawing 2025-09-16 13.04.53.excalidraw.md",
+    "mgm/TechShare/Drawing 2025-09-16 13.04.53.excalidraw.restored.md",
     "2025-09-24.md",
     "mgm/Accounts.md",
     "b9cef4_7e90fbc5414b4a19930c832c0dddf795~mv2.avif",
@@ -216,7 +217,6 @@
     "b9cef4_7e90fbc5414b4a19930c832c0dddf795~mv2.avif.crdownload",
     "1664369490-3563890573",
     "LinkedIn Ad for PSM Nashville_with_water mark.jpg.crdownload",
-    "audi/myAudiGo/Note.md",
     "audi/myAudiGo/QA.md",
     "mgm/Annual Review/2025 Employee preparation for annual Review.md",
     "mgm/Annual Review/2025 MGM Annual Performance Review - Prepared.md",
@@ -233,7 +233,6 @@
     "audi/myAudiGo/BFF (Backend for Frontend).md",
     "audi/myAudiGo/For daily.md",
     "AI/kimi k2 for claude code script.md",
-    "AI/Claude Code Router.md",
     "mgm/TechShare",
     "audi/myAudiGo",
     "audi",
