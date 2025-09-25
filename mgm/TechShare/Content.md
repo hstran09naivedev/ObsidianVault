@@ -40,7 +40,7 @@ To work through 2 months - output -> discipline
 #### Core conditions to start and sustain Scrum
 
 **Team Structure** - Product Owner - Scrum Master - Development team (- Technical Lead)
-**Commitment to Scrum Events**
+**Commitment to Scrum Events** (Planning - Daily - Retro - Review)
 **Sprint Cadence**
 **Self-Organization and Cross-Functionality**
 **Clear Definition of Done**

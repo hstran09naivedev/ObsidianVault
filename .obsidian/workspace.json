@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mgm/TechShare/Internship mentoring experience.md",
+                "file": "mgm/TechShare/Content.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Internship mentoring experience"
+              "title": "Content"
             }
           }
         ],
@@ -105,13 +105,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mgm/TechShare/Internship mentoring experience.md",
+                "file": "mgm/TechShare/Content.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Internship mentoring experience"
+              "title": "Outline of Content"
             }
           },
           {
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mgm/TechShare/Internship mentoring experience.md",
+                "file": "mgm/TechShare/Content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Internship mentoring experience"
+              "title": "Backlinks for Content"
             }
           },
           {
@@ -149,12 +149,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mgm/TechShare/Internship mentoring experience.md",
+                "file": "mgm/TechShare/Content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Internship mentoring experience"
+              "title": "Outgoing links from Content"
             }
           },
           {
@@ -195,9 +195,9 @@
   },
   "active": "eb7e7a35b3da103c",
   "lastOpenFiles": [
+    "mgm/TechShare/Internship mentoring experience.md",
     "mgm/TechShare/Drawing 2025-09-16 13.04.53.excalidraw.md",
     "mgm/TechShare/Drawing 2025-09-16 13.04.53.excalidraw.restored.md",
-    "mgm/TechShare/Internship mentoring experience.md",
     "mgm/TechShare/Content.md",
     "Agile-Manifesto-edited.png",
     "1697296411254.gif",
