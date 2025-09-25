@@ -14,7 +14,7 @@ Java - Springboot - Typescript - React - Jenkins for CICD - docker artifactory f
 Topic to choose -> How the internship's product looks like. Below is what I have
 
 **Niche social network for memes** - image editor on FE side > No 
-A software that can share the technical ideas, tips, tricks, a12 knowledge... replacing ***Today I learned*** group chat
+A app where we can share the technical ideas, tips, tricks, a12 knowledge... replacing ***Today I learned*** group chat
 We can receive digest emails to recommend user for some good contents
 
 Define and Orient Product - **Product Vision**:
